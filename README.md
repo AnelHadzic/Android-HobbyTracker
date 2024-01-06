@@ -1,5 +1,5 @@
-# Android-HobbyTracker
+# HobbyTracker_Android_G12
 
-Resultat: B
+Some fancy text about the app
 
-Eksamen i mobilprogrammering. HobbyTracker
+Later, a guide on How-to
