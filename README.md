@@ -1,5 +1,6 @@
 # HobbyTracker_Android_G12
+Winter Semester 2023
+Exam in mobile programming (Android).
 
-Some fancy text about the app
-
-Later, a guide on How-to
+Programming language: Kotlin
+Exam result: B
